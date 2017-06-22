@@ -1,0 +1,10 @@
+.main{
+	width: 30%;
+	height: 150px;
+	background:lightgrey;
+}
+.select{
+	width: 30%;
+	height: 20px;
+	background:lightblue;
+}
